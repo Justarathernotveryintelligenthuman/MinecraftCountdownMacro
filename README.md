@@ -1,0 +1,1 @@
+Note: I created the backend functionality, but I enlisted the assistance of generative AI for the GUI. 85% of the code is mine. If this is an issue I apologize im working on getting better with PyAutoGUI.
