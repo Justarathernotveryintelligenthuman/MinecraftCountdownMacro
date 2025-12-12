@@ -1,1 +1,3 @@
 Note: I created the backend functionality, but I enlisted the assistance of generative AI for the GUI. 85% of the code is mine. If this is an issue I apologize im working on getting better with PyAutoGUI. I also forgot to place comments until I was done and couldnt be bothered to add them after the fact. sorry :) Also, while not against MOST server when used correctly, I am not responsible for any bans or damages to repuatation caused by this program. AFK movement strongly recommended to be disabled on servers with anticheats / cheat rules.
+
+Before running, run the following command: pip install FreeSimpleGUI pyautogui pytz pygetwindow keyboard pynput opencv-python
